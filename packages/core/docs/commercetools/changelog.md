@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.1.0 (not released)
+## 1.1.0
 - fix getOrders api ([#5328](https://github.com/DivanteLtd/vue-storefront/issues/5328))
 - added bottom margin to fix visibility of last footer category ([#5253](https://github.com/DivanteLtd/vue-storefront/issues/5253))
 - [BREAKING] refactored names of many factory methods and composable methods, details in linked PR ([#5299](https://github.com/DivanteLtd/vue-storefront/pull/5299))
@@ -11,6 +11,7 @@
 - use updated factories `useUserBillingFactory`, `useUserShippingFactory` and `useWishlistFactory` ([5350](https://github.com/vuestorefront/vue-storefront/pull/5350))
 - use updated factories `useUserBillingFactory`, `useUserShippingFactory` and `useWishlistFactory` ([5350](https://github.com/vuestorefront/vue-storefront/pull/5350))
 - fix selecting country on checkout payment and shipping ([5386](https://github.com/vuestorefront/vue-storefront/pull/5386))
+- `createMyShoppingList` as a restricted anonymous operation
 
 ## 1.0.1-rc.1
 - updated version of core
